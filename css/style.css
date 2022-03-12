@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(173, 163, 173, 0.452);
+    text-align: center;
+    font-size: 1.1rem;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+li{
+
+    margin: .3rem;
+    background-color: red;
+    border-radius: .3rem;
+    padding: .3rem;
+}
+a{
+    
+    color: white;
+    padding: .3rem;
+    
+    text-decoration: none;
+}
+section{
+    background-color: black;
+    color: white;
+    width: 80%;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+img{
+    width: 300px;
+    border-radius: 100%;
+}
+select{
+    padding: .2rem;
+    margin: 1rem;
+    text-align: center;
+    width: 10rem;
+}
